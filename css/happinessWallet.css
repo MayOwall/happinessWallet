@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#head-title {
+  padding: 1rem;
+  border-bottom: 1px solid gray;
+  font-family: "Hahmlet";
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: center;
+}
